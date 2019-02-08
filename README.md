@@ -5,7 +5,9 @@ In all honesty, I ran into a couple simple problems back last semester creating 
 example of my coding capabilities, and thought I'd share it! Below, is the initial lab directions that my professor had given me.
 I put a little "flair" to my code, and I'm glad (thankfully) it worked without any errors*.
 
-Initial lab that created the program: ---------------------------------------------------------------------------------------------------
+Initial lab that created the program: 
+
+--------------------------------------------------------------------------------------------------------------------------------------
 Write a simple quiz program that asks five questions, and keeps score of the number of correct answers. At the end of the quiz, print out the user's score with an appropriate message as follows:
 
 - If the user answers the question correctly, print out a "Correct" message and add one to the total score.
@@ -19,9 +21,10 @@ After all 5 questions have been answered, print one of the following messages ba
 
 NOTE: Please use the IF/Then/Else construct for each condition. Thanks.
 
------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+Editing lab that incorporates looping: 
 
-Editing lab that incorporates looping: --------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 Modify your quiz from the last assignment as follows:
 
 For each question, instead of keeping score, continue asking the same question until the user guesses the correct question or types "skip" (allow both upper and lower case). 
@@ -31,6 +34,6 @@ For each question, instead of keeping score, continue asking the same question u
 
 When all questions have been asked/answered/skipped, print out a "Thank you for playing" type of message.
 
-------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 *If there are any, I'll list them below and will edit them once again.
